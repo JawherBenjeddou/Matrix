@@ -1,0 +1,3 @@
+[submodule "Matrix/3rdPartyLibraries/spdlog"]
+	path = Matrix/3rdPartyLibraries/spdlog
+	url = https://github.com/gabime/spdlog
